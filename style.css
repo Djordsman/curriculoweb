@@ -1,0 +1,31 @@
+#header {
+    background-color: rgb(1, 1, 53);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "Hubballi", sans-serif;
+    text-transform: uppercase;
+}
+
+#nomeETitulo {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nomeETitulo h1, h2 {
+    margin: 0;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+
+#contato {
+    list-style-type: none;
+}
+
+#contato i {
+    width: 20px;
+    color: rgb(1, 1, 53);
+}
